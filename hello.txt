@@ -6,4 +6,6 @@ yy p is copy
 yy p is copy
 yy p is copy
 yy p is copy
-esc +shift +i +wq is save
+esc +shift +; +wq is save
+mouse wheel is paste
+into hot-fix 
