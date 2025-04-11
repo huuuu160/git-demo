@@ -1,0 +1,9 @@
+hello atguigu
+i into edit
+esc exit edit
+yy p is copy
+yy p is copy
+yy p is copy
+yy p is copy
+yy p is copy
+esc +shift +i +wq is save
