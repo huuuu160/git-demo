@@ -9,3 +9,4 @@ yy p is copy
 esc +shift +; +wq is save
 mouse wheel is paste
 into hot-fix 
+111111
